@@ -1,0 +1,8 @@
+README.md
+setup.py
+flashmind/__init__.py
+flashmind.egg-info/PKG-INFO
+flashmind.egg-info/SOURCES.txt
+flashmind.egg-info/dependency_links.txt
+flashmind.egg-info/requires.txt
+flashmind.egg-info/top_level.txt
